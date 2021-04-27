@@ -16,7 +16,7 @@ author: Conor Loy
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - SRR Download: "srr-download"
+    - SRR Download: "sra-download"
   De Valaminck Lab: "https://devlaminck.bme.cornell.edu"
 
 # --- Logo --- #
