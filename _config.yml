@@ -16,9 +16,8 @@ author: Conor Loy
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - SRR Download: "https://conorloy.github.io/srr-download"
+  De Valaminck Lab: "https://devlaminck.bme.cornell.edu"
 
 # --- Logo --- #
 
